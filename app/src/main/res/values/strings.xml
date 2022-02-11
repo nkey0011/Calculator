@@ -18,5 +18,8 @@
     <string name="_2">2</string>
     <string name="_3">3</string>
     <string name="btnMin">-</string>
+    <string name="btnDec">.</string>
+    <string name="btnPlus">+</string>
+    <string name="btnEql">=</string>
 
 </resources>
